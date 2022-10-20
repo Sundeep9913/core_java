@@ -3,6 +3,7 @@ package day1;
 public class BankAccount {
 
     //state
+    //ssn
     //Customer_id
     //CustomerName
     //CustomerAddress
