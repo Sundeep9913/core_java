@@ -13,16 +13,12 @@ public class BankAccount {
     //AccountNumber
     //AccountId
     //AccountRoutingNo
-    //AccountDirectDeposit
     //CheckingsId
     //CheckingsNumber
     //CheckingsZelleId
     //SavingsId
     //SavingsNumber
-    //SavingsZelleId
-    //SavingsApr
-    //CreditAccountNumber
-    //CreditAccountId
+
 
 
     //behavior

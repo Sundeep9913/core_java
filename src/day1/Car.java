@@ -8,7 +8,6 @@ public class Car {
     //CarPrice
     //CarDesiredMonthlyPayment
     //CarDownPayment
-    //CreditRating
     //CarTransmission
     //CarDrive
     //CarExterior
@@ -18,6 +17,8 @@ public class Car {
     //CarFunctions
     //CarRange
     //CarMileage
+    //CarPrice
+
 
 
 

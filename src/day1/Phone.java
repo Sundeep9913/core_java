@@ -12,8 +12,7 @@ public class Phone {
     //PhoneScreenType
     //PhoneCameraType
     //PhoneCameraResolution
-    //PhoneScreenType
-    //PhoneScreenResolution
+    //PhonePrice
 
     //Behavior
 
