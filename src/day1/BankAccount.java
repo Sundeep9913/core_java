@@ -3,22 +3,25 @@ package day1;
 public class BankAccount {
 
     //state
-    //ssn
-    //Customer_id
-    //CustomerName
-    //CustomerAddress
-    //CustomerDOB
-    //Customer_Citizenship_Id
-    //CustomerPhoneNo
-    //AccountType
-    //AccountNumber
-    //AccountId
-    //AccountRoutingNo
-    //CheckingsId
-    //CheckingsNumber
-    //CheckingsZelleId
-    //SavingsId
-    //SavingsNumber
+
+    //SocialSecurityNumber(String)
+    String SocialSecurityNumber;
+    //AccountNumber(String)
+    String accountNumber;
+    //AccountHolderName(String)
+    String accountHolderName;
+    //AccountBalance (double)
+    double AccountBalance;
+    //BranchCode (int/String)
+    String branchCode;
+    //AccountType(String)
+    String accountType;
+    //InterestRate(Float)
+    float interestRate;
+    //CustomerInformation(CustomerInformation)
+    //CustomerInfromation customerInformation;
+
+
 
 
 
